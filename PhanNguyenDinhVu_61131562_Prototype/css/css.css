@@ -1,0 +1,71 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box; 
+}
+#container{
+	width:90%;
+	margin:0 auto;
+	background:#FF00FF;
+	
+}
+#banner{
+	text-align: center;
+	color: white;
+}
+
+#menu{
+	font-size:30px;
+	color:black;
+	background:yellow;
+	
+}
+#menu a{text-decoration:none}
+#login{
+	background:lightgray;
+	width:20%;
+	height:80vh;
+	float:right;
+	border: 1px groove #b7a4aa;
+	
+}
+#lg{
+	width:96%;
+	margin:10px;
+	text-align: center;
+}
+#lg h1{
+	color:red;
+	text-align: center;
+	
+}
+#lg img{
+	width:30%;
+	height:50%;
+	margin: auto;
+}
+#content{
+	background:white;
+	width:80%;
+	height:40vh;
+	float:left;
+}
+#content img{
+
+	width:auto;
+	height:69%;
+}
+#content button{
+	color:red;
+	
+}
+
+
+#footer{
+	position: absolute;
+	bottom: 0;
+	width: 90%;
+	background:#FF00FF;
+	text-align:center;
+	color: white;
+}
